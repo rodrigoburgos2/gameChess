@@ -17,6 +17,12 @@ public class Program {
 		
 		
 		sc.close();
+		
+/*commit git
+ * git status
+ * git add .
+ * git commit -m "comentario" 
+ * git push*/		
 
 	}
 
